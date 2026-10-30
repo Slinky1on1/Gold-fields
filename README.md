@@ -10,7 +10,7 @@ A co-op gold mining game for Windows: stake a claim, dig, wash and pan for gold,
 
 ## Updates
 
-From version 0.14.1 on, the game updates itself: when you open it, it checks this page, downloads the new version and restarts. Keep the game in a folder you can write to (not *Program Files*).
+From version 0.14.2 on, the game updates itself: when you open it, it checks this page, downloads the new version and restarts. Keep the game in a folder you can write to (not *Program Files*).
 
 Playing together needs everyone on the same version; the lobby tells you if someone's copy is different.
 
